@@ -1,4 +1,4 @@
-#### math rock-esque patch
+# math rock-esque patch
 ```
 setcpm(160/4)
 //(only using bd hh ho sn cp rim) shoutout love
